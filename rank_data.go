@@ -7,7 +7,6 @@ import (
 type IndexedData struct {
 	Value float64
 	Index int
-
 	Count float64
 	Sum   float64
 }
